@@ -50,7 +50,7 @@ Dense (10 units) + Softmax
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/digit-recognition-app2.git
+   git clone https://github.com/kavumi22/mnist-digit-recognition.git
    cd digit-recognition-app2
    ```
 
@@ -127,7 +127,7 @@ Dense (10 units) + Softmax
 **Option 1: Automatic setup (recommended)**
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/digit-recognition-app2.git
+git clone https://github.com/kavumi22/mnist-digit-recognition.git
 cd digit-recognition-app2
 
 # 2. Run automated setup
@@ -156,7 +156,7 @@ sudo apt-get update
 sudo apt-get install python3-venv python3-tk
 
 # 2. Clone repository
-git clone https://github.com/your-username/digit-recognition-app2.git
+git clone https://kavumi22/mnist-digit-recognition.git
 cd digit-recognition-app2
 
 # 3. Create and activate virtual environment
@@ -186,7 +186,7 @@ deactivate
 **For Windows/macOS users:**
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/digit-recognition-app2.git
+git clone https://github.com/kavumi22/mnist-digit-recognition.git
 cd digit-recognition-app2
 
 # 2. Install dependencies
@@ -295,7 +295,7 @@ The GUI provides an intuitive interface for testing your trained model:
 ## 📁 Project Structure
 
 ```
-digit-recognition-app2/
+mnist-digit-recognition/
 ├── model.py              # Neural network model definition
 ├── train.py              # Training script with full pipeline
 ├── train_gpu.py          # GPU-optimized training script
