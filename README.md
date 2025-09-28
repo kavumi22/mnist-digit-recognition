@@ -51,7 +51,7 @@ Dense (10 units) + Softmax
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/kavumi22/mnist-digit-recognition.git
-   cd digit-recognition-app2
+   cd mnist-digit-recognition
    ```
 
 2. **Install dependencies**:
